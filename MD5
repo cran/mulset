@@ -1,0 +1,13 @@
+f482723034e6f438b568ce119e3dfec6 *DESCRIPTION
+5c2a9be4dfde515c58addc04e89810c5 *NAMESPACE
+a4ea89aaf15fdde6581588edc8b189a2 *R/intersection.R
+1db6bffa1244d337bfcaf20f9dc186b5 *R/mulset.R
+fcd2b4414afafe7d8c24c4ad40cc6c3d *R/multisetDemo-data.R
+c0bf27ea0579bfccb26915ea89cced3e *R/utils.R
+ed8149e0386ecbb1e44d1fc733993966 *README.md
+9e920dfee782348565ffc84aca25f960 *data/mulsetDemo.rda
+6cb6e53f04737f551bcfdb32309df96f *inst/CITATION
+d41d8cd98f00b204e9800998ecf8427e *inst/NEWS
+27aec2d0286f63b070bf9e1141846110 *man/intersection.Rd
+f56c90b1595da0a81cef3c349267b45a *man/mulset.Rd
+4c641f64571f290fbccfc06388653f07 *man/mulsetDemo.Rd
